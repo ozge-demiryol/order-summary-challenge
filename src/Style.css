@@ -1,0 +1,124 @@
+*{
+    font-family: 'Red Hat Display', sans-serif; 
+    background-image: url ("pattern-background-desktop.svg");
+    background-size: contain;
+}
+
+body{
+    margin: 0%;
+}
+
+.card-container{
+    width: 450px;
+    height: max-content;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 -6px 20px 0 rgba(0, 0, 0, 0.1);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+.card-img-top{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    object-fit: contain;
+}
+
+.card-title{
+    color: hsl(223, 47%, 23%);
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+.card-text{
+    font-weight: 400;
+    color: hsl(224, 23%, 55%);
+    font-size: 16px;
+    width: 75%;
+    margin-top: 20px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.card-text-annual-plan{
+    display: flex; 
+    flex-direction: column;
+    font-size: 16 px;
+    margin:0;
+}
+
+.card-payment {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: hsl(225, 100%, 98%);
+    width: 350px;
+    height: 70px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.card-link{
+    float: right;
+    display: flex;
+    align-items: center;
+    margin-bottom: 1px;
+}
+
+.card-link:hover{
+   color: rgb(118, 108, 241);
+   text-decoration: none;
+   cursor: pointer;
+}
+
+
+.btn-payment{
+    background-color:hsl(245, 75%, 52%) ;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2);
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    width: 900 px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.btn-payment:hover{
+    background-color: rgb(118, 108, 241) ;
+    cursor: pointer;
+}
+
+.btn-cancel{
+    background-color: white;
+    border: none;
+    color: hsl(224, 23%, 55%);
+    font-weight: 700;
+    border-radius: 10px;
+    width: 500 px;
+    height: 40px;
+    padding: 10px;
+}
+
+.btn-cancel:hover{
+    
+    cursor: pointer;
+    color: hsl(223, 47%, 23%) ;
+    text-shadow: 0,0,10px,10px hsl(223, 47%, 23%);
+}
