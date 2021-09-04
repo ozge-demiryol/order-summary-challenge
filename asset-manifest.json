@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/order-summary-challenge/static/css/main.96e7d7cb.chunk.css",
+    "main.js": "/order-summary-challenge/static/js/main.0a0d1c49.chunk.js",
+    "main.js.map": "/order-summary-challenge/static/js/main.0a0d1c49.chunk.js.map",
+    "runtime-main.js": "/order-summary-challenge/static/js/runtime-main.7863ac6b.js",
+    "runtime-main.js.map": "/order-summary-challenge/static/js/runtime-main.7863ac6b.js.map",
+    "static/js/2.388e3a8f.chunk.js": "/order-summary-challenge/static/js/2.388e3a8f.chunk.js",
+    "static/js/2.388e3a8f.chunk.js.map": "/order-summary-challenge/static/js/2.388e3a8f.chunk.js.map",
+    "index.html": "/order-summary-challenge/index.html",
+    "static/css/main.96e7d7cb.chunk.css.map": "/order-summary-challenge/static/css/main.96e7d7cb.chunk.css.map",
+    "static/js/2.388e3a8f.chunk.js.LICENSE.txt": "/order-summary-challenge/static/js/2.388e3a8f.chunk.js.LICENSE.txt",
+    "static/media/icon-music.f20c7787.svg": "/order-summary-challenge/static/media/icon-music.f20c7787.svg",
+    "static/media/illustration-hero.73032583.svg": "/order-summary-challenge/static/media/illustration-hero.73032583.svg",
+    "static/media/pattern-background-desktop.5a0ab689.svg": "/order-summary-challenge/static/media/pattern-background-desktop.5a0ab689.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7863ac6b.js",
+    "static/js/2.388e3a8f.chunk.js",
+    "static/css/main.96e7d7cb.chunk.css",
+    "static/js/main.0a0d1c49.chunk.js"
+  ]
+}
